@@ -12,7 +12,7 @@ Eg: \\winbuilds\release\rs_onecore_liof1\25272.1004.221221-1100\amd64fre\vhd\vhd
 
 ### Install Docker
 ```
-.\Install-Docker.ps1.ps1 -Stable -HyperV
+.\Install-Docker.ps1 -Stable -HyperV
 ```
 This will involve restart of VM. Login to VM again
 
